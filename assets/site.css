@@ -1,0 +1,9 @@
+/* orbit — waitlist site (consumes drawably for all chrome) */
+:root {
+  --paper: #f6f1e7;
+  --ink: #26211b;
+  --ink-soft: #6e675f;
+  --accent: #3a4a8f;
+  --accent-wash: rgba(58, 74, 143, 0.07);
+}
+* { box-sizing: border-box; }

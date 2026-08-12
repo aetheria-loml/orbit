@@ -22,3 +22,10 @@ body {
 .grid-2 { grid-template-columns: repeat(2, 1fr); }
 .grid-3 { grid-template-columns: repeat(3, 1fr); }
 .dcard { padding: 22px; background: #fbf8ef; }
+
+button { font: inherit; background: none; border: none; cursor: pointer; }
+.fld { display: block; margin-top: 14px; }
+.fld input, .fld select {
+  width: 100%; font: inherit; border: none; background: transparent;
+  padding: 9px 12px;
+}

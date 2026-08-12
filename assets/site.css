@@ -17,3 +17,8 @@ body {
 .wrap { max-width: 1120px; margin: 0 auto; padding: 0 22px; }
 .hero { padding: 74px 0 58px; }
 .hero h1 { max-width: 720px; }
+
+.grid { display: grid; gap: 22px; }
+.grid-2 { grid-template-columns: repeat(2, 1fr); }
+.grid-3 { grid-template-columns: repeat(3, 1fr); }
+.dcard { padding: 22px; background: #fbf8ef; }

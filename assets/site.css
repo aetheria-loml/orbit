@@ -29,3 +29,7 @@ button { font: inherit; background: none; border: none; cursor: pointer; }
   width: 100%; font: inherit; border: none; background: transparent;
   padding: 9px 12px;
 }
+
+details { padding: 10px 0; }
+summary { cursor: pointer; font-weight: 700; }
+.pagefoot { margin-top: 60px; padding: 26px 0 40px; color: var(--ink-soft); }

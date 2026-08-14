@@ -33,3 +33,12 @@ button { font: inherit; background: none; border: none; cursor: pointer; }
 details { padding: 10px 0; }
 summary { cursor: pointer; font-weight: 700; }
 .pagefoot { margin-top: 60px; padding: 26px 0 40px; color: var(--ink-soft); }
+
+@media (max-width: 900px) { .grid-3 { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 720px) {
+  .grid-2, .grid-3 { grid-template-columns: 1fr; }
+  h1 { font-size: 34px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}

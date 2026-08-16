@@ -37,3 +37,9 @@ function wireWaitlist() {
     form.reset();
   });
 }
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", () => { ink(); wireWaitlist(); });
+} else {
+  ink(); wireWaitlist();
+}

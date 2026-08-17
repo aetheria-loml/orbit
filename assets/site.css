@@ -42,3 +42,6 @@ summary { cursor: pointer; font-weight: 700; }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }
 }
+
+/* label breathing room: the sketch stroke overflows the host by a few px */
+.fld-label { margin-bottom: 13px; }

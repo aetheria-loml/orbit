@@ -45,3 +45,8 @@ summary { cursor: pointer; font-weight: 700; }
 
 /* label breathing room: the sketch stroke overflows the host by a few px */
 .fld-label { margin-bottom: 13px; }
+
+.stat-strip {
+  display: flex; flex-wrap: wrap; gap: 10px 44px; padding: 16px 0;
+  font-size: 13.5px; color: var(--ink-soft);
+}

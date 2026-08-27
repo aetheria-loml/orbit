@@ -50,3 +50,5 @@ summary { cursor: pointer; font-weight: 700; }
   display: flex; flex-wrap: wrap; gap: 10px 44px; padding: 16px 0;
   font-size: 13.5px; color: var(--ink-soft);
 }
+
+.rule { border: none; height: 10px; margin: 18px 0; }

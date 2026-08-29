@@ -28,7 +28,7 @@ function wireWaitlist() {
   form.addEventListener("submit", (e) => {
     e.preventDefault();
     const email = new FormData(form).get("email") ?? "you";
-    const n = 4096 + Math.floor(Math.random() * 512);
+    const n = 4096 + Math.floor(Math.random() * 256);
     if (msg) {
       msg.hidden = false;
       msg.className = "msg ok";

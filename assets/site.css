@@ -52,3 +52,5 @@ summary { cursor: pointer; font-weight: 700; }
 }
 
 .rule { border: none; height: 10px; margin: 18px 0; }
+
+.dcard { box-shadow: 5px 5px 0 rgba(38, 33, 27, 0.12); }

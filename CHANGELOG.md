@@ -6,3 +6,4 @@ rev 3: facilities humor pass
 rev 5: label nav and form fields
 rev 4: waitlist reassurance line
 rev 5: roadmap honesty pass
+rev 6: multiverse-cash faq answer

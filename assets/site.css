@@ -159,3 +159,5 @@ summary { cursor: pointer; font-weight: 700; }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }
 }
+
+/* devnote 02: style: hero spacing rhythm */

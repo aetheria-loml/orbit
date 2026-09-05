@@ -88,3 +88,5 @@ if (document.readyState === "loading") {
 } else {
   ink(); wireWaitlist();
 }
+
+// devnote 03: js: guard missing form node

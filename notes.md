@@ -2,3 +2,4 @@ Launch notes
 ============
 
 The waitlist is static. There is no beta backend and no invite database.
+- copy: batch wording (correct batch)

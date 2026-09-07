@@ -9,3 +9,4 @@ rev 5: roadmap honesty pass
 rev 6: multiverse-cash faq answer
 rev 7: freeze copy for launch rehearsal
 rev 8: confirm clean launch state
+rev 18: style: badge rotation angles

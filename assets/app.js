@@ -90,3 +90,5 @@ if (document.readyState === "loading") {
 }
 
 // devnote 03: js: guard missing form node
+
+// devnote 08: style: eyebrow letterspacing

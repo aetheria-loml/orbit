@@ -8,3 +8,4 @@ rev 4: waitlist reassurance line
 rev 5: roadmap honesty pass
 rev 6: multiverse-cash faq answer
 rev 7: freeze copy for launch rehearsal
+rev 8: confirm clean launch state

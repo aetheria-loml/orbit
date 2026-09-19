@@ -94,3 +94,5 @@ if (document.readyState === "loading") {
 // devnote 08: style: eyebrow letterspacing
 
 // devnote 13: a11y: details marker affordance
+
+// devnote 18: style: input padding nudge

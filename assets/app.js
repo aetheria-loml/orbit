@@ -96,3 +96,5 @@ if (document.readyState === "loading") {
 // devnote 13: a11y: details marker affordance
 
 // devnote 18: style: input padding nudge
+
+// devnote 23: js: passive listeners audit

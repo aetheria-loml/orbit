@@ -13,3 +13,4 @@ rev 18: style: badge rotation angles
 rev 19: copy: manifesto second paragraph
 rev 20: style: footer stack on mobile
 rev 21: meta: og description trim
+rev 22: style: beta card centering

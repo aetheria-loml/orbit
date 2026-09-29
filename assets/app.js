@@ -98,3 +98,5 @@ if (document.readyState === "loading") {
 // devnote 18: style: input padding nudge
 
 // devnote 23: js: passive listeners audit
+
+// devnote 28: a11y: skip-link considered, declined

@@ -100,3 +100,5 @@ if (document.readyState === "loading") {
 // devnote 23: js: passive listeners audit
 
 // devnote 28: a11y: skip-link considered, declined
+
+// devnote 33: meta: twitter card copy

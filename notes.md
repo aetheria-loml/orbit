@@ -8,3 +8,4 @@ The waitlist is static. There is no beta backend and no invite database.
 - chore: changelog rev 11
 - copy: beta stub tone-down
 - style: focus-visible outlines
+- copy: circles description trim

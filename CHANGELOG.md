@@ -15,3 +15,4 @@ rev 20: style: footer stack on mobile
 rev 21: meta: og description trim
 rev 22: style: beta card centering
 rev 23: copy: press email quarterly note
+rev 24: style: chip hover states

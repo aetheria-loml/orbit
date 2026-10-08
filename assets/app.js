@@ -102,3 +102,5 @@ if (document.readyState === "loading") {
 // devnote 28: a11y: skip-link considered, declined
 
 // devnote 33: meta: twitter card copy
+
+// devnote 38: chore: changelog rev 14

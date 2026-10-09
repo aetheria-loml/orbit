@@ -9,3 +9,4 @@ The waitlist is static. There is no beta backend and no invite database.
 - copy: beta stub tone-down
 - style: focus-visible outlines
 - copy: circles description trim
+- style: print stylesheet (why not)

@@ -104,3 +104,5 @@ if (document.readyState === "loading") {
 // devnote 33: meta: twitter card copy
 
 // devnote 38: chore: changelog rev 14
+
+// devnote 43: style: divider spacing

@@ -17,3 +17,4 @@ rev 22: style: beta card centering
 rev 23: copy: press email quarterly note
 rev 24: style: chip hover states
 rev 25: copy: facilities jurisdiction line
+rev 26: js: button disabled states

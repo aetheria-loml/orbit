@@ -106,3 +106,5 @@ if (document.readyState === "loading") {
 // devnote 38: chore: changelog rev 14
 
 // devnote 43: style: divider spacing
+
+// devnote 48: copy: launch archive link label

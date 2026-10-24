@@ -12,3 +12,4 @@ The waitlist is static. There is no beta backend and no invite database.
 - style: print stylesheet (why not)
 - chore: changelog rev 15
 - js: reduced-motion media query
+- copy: status page reference

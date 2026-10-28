@@ -110,3 +110,5 @@ if (document.readyState === "loading") {
 // devnote 48: copy: launch archive link label
 
 // devnote 53: style: selection color (lime)
+
+// devnote 58: copy: final typo sweep

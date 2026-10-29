@@ -159,27 +159,3 @@ summary { cursor: pointer; font-weight: 700; }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }
 }
-
-/* devnote 02: style: hero spacing rhythm */
-
-/* devnote 07: copy: stat strip honesty (0 posts) */
-
-/* devnote 12: chore: changelog rev 10 */
-
-/* devnote 17: copy: waitlist placeholder copy */
-
-/* devnote 22: style: marquee-free zone (no marquee) */
-
-/* devnote 27: copy: 404 copy (none of the 4096) */
-
-/* devnote 32: chore: changelog rev 13 */
-
-/* devnote 37: js: console clean (no logs) */
-
-/* devnote 42: copy: vanity handles pricing tease */
-
-/* devnote 47: style: polaroid-free (no images) */
-
-/* devnote 52: copy: footer tagline final */
-
-/* devnote 57: style: scrollbar styling (restraint) */

@@ -88,27 +88,3 @@ if (document.readyState === "loading") {
 } else {
   ink(); wireWaitlist();
 }
-
-// devnote 03: js: guard missing form node
-
-// devnote 08: style: eyebrow letterspacing
-
-// devnote 13: a11y: details marker affordance
-
-// devnote 18: style: input padding nudge
-
-// devnote 23: js: passive listeners audit
-
-// devnote 28: a11y: skip-link considered, declined
-
-// devnote 33: meta: twitter card copy
-
-// devnote 38: chore: changelog rev 14
-
-// devnote 43: style: divider spacing
-
-// devnote 48: copy: launch archive link label
-
-// devnote 53: style: selection color (lime)
-
-// devnote 58: copy: final typo sweep

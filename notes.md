@@ -13,3 +13,4 @@ The waitlist is static. There is no beta backend and no invite database.
 - chore: changelog rev 15
 - js: reduced-motion media query
 - copy: status page reference
+- chore: pre-launch freeze
